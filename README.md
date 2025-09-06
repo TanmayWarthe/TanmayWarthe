@@ -9,48 +9,7 @@
 🚀 Passionate about building projects that make a difference  
 
 ---
-## 🛠️ Tech Stack & Skills
 
-<table>
-<tr>
-  <td align="center">💻 Programming</td>
-  <td align="center">🎨 Frontend</td>
-  <td align="center">🍃 Backend & Tools</td>
-</tr>
-<tr>
-  <td align="center">
-    Python 🐍  
-    ![Python](https://img.shields.io/badge/Python-80%25-brightgreen)  
-    C++ 💻  
-    ![C++](https://img.shields.io/badge/C++-70%25-yellow)  
-    JavaScript ✨ 
-    ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellowgreen)  
-  </td>
-  <td align="center">
-    HTML5 🌐 
-    ![HTML5](https://img.shields.io/badge/HTML5-85%25-brightgreen)  
-    CSS3 🎨 
-    ![CSS3](https://img.shields.io/badge/CSS3-80%25-green)  
-    React ⚛️  
-    ![React](https://img.shields.io/badge/React-70%25-yellow)  
-    Bootstrap 🎯 
-    ![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-yellowgreen)  
-  </td>
-  <td align="center">
-    Django 🍃 
-    ![Django](https://img.shields.io/badge/Django-70%25-yellow)  
-    Node.js 🌱 
-    ![Node.js](https://img.shields.io/badge/Node.js-40%25-red)  
-    MySQL 🗄️ 
-    ![MySQL](https://img.shields.io/badge/MySQL-60%25-orange)  
-    Git 🔧 
-    ![Git](https://img.shields.io/badge/Git-80%25-brightgreen)  
-    VS Code 🖊️ 
-    ![VS Code](https://img.shields.io/badge/VSCode-85%25-brightgreen)
-
-  </td>
-</tr>
-</table>
 
 
 
@@ -69,7 +28,28 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" align="center">
+    <td width="60%" align=## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-9b06-92a7b8bdbd3a.gif" width="60" alt="Python"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910847-e8f0cace-daea-4f5e-bc63-97f8f4c92b27.gif" width="60" alt="C++"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910844-39b0f9d6-f8a5-48f7-8b87-b7b83c38b4d7.gif" width="60" alt="JavaScript"/>
+
+  <!-- Frontend -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910846-69f6c7e2-5b7d-4f4c-812b-7b0a3a3e2e3c.gif" width="60" alt="HTML"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910843-9b5d3e6f-0b8e-41a5-8921-98fefc67f08a.gif" width="60" alt="CSS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-47697c92-6c4d-4d7d-9186-bf3dfc3c7a0a.gif" width="60" alt="React"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910841-bff1c1c0-f23e-4c9f-9f5a-d6f53a1d441b.gif" width="60" alt="Bootstrap"/>
+
+  <!-- Backend & Tools -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910840-10956c9a-d272-4e4a-8c73-d2f25f7b7b63.gif" width="60" alt="Django"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910839-ecb35a9b-5c84-47e3-b8e4-3f9f8d8f962c.gif" width="60" alt="Node.js"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910838-4d5f8a3c-8f62-42de-8739-16c7d7e1c2cc.gif" width="60" alt="MySQL"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910837-b8768c1a-3c8f-4a9d-92a4-3e9c379e59f3.gif" width="60" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910836-18cc5ffb-c3dd-47c4-b948-27c4f73d66b8.gif" width="60" alt="VS Code"/>
+</p>
+"center">
       <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" alt="ai gif"/>
     </td>
     <td width="40%" align="center">
