@@ -13,34 +13,22 @@
 ## 🛠️ Tech Stack & Skills
 
 **💻 Programming:**  
-Python 🐍  
-![Python](https://img.shields.io/badge/Python-80%25-brightgreen)  
-C++ 💻  
-![C++](https://img.shields.io/badge/C++-70%25-yellow)  
-JavaScript ✨  
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellowgreen)  
+![Python 🐍](https://img.shields.io/badge/Python-80%25-brightgreen)  
+![C++ 💻](https://img.shields.io/badge/C++-70%25-yellow)  
+![JavaScript ✨](https://img.shields.io/badge/JavaScript-75%25-yellowgreen)  
 
 **🎨 Frontend:**  
-HTML5 🌐  
-![HTML5](https://img.shields.io/badge/HTML5-85%25-brightgreen)  
-CSS3 🎨  
-![CSS3](https://img.shields.io/badge/CSS3-80%25-green)  
-React ⚛️  
-![React](https://img.shields.io/badge/React-70%25-yellow)  
-Bootstrap 🎯  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-yellowgreen)  
+![HTML5 🌐](https://img.shields.io/badge/HTML5-85%25-brightgreen)  
+![CSS3 🎨](https://img.shields.io/badge/CSS3-80%25-green)  
+![React ⚛️](https://img.shields.io/badge/React-70%25-yellow)     
+![Bootstrap 🎯](https://img.shields.io/badge/Bootstrap-75%25-yellowgreen)  
 
 **🍃 Backend & Tools:**  
-Django 🍃  
-![Django](https://img.shields.io/badge/Django-70%25-yellow)  
-Node.js 🌱  
-![Node.js](https://img.shields.io/badge/Node.js-40%25-red)  
-MySQL 🗄️  
-![MySQL](https://img.shields.io/badge/MySQL-60%25-orange)  
-Git 🔧  
-![Git](https://img.shields.io/badge/Git-80%25-brightgreen)  
-VS Code 🖊️  
-![VS Code](https://img.shields.io/badge/VSCode-85%25-brightgreen)
+![Git 🔧 ](https://img.shields.io/badge/Git-80%25-brightgreen)  
+![VS Code 🖊️](https://img.shields.io/badge/VSCode-85%25-brightgreen)
+![Django 🍃](https://img.shields.io/badge/Django-70%25-yellow)  
+![Node.js 🌱](https://img.shields.io/badge/Node.js-40%25-red)  
+![MySQL 🗄️](https://img.shields.io/badge/MySQL-60%25-orange)  
 
 ---
 
@@ -69,17 +57,6 @@ VS Code 🖊️
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/TanmayWarthe/QuickMeds-An-Online-Pharamacy">
-    <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200" alt="Project1"/>
-  </a>
-  
-</p>
 
 ---
 
