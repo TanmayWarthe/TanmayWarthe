@@ -19,25 +19,26 @@
 </tr>
 <tr>
   <td align="center">
-    ![Python](https://img.shields.io/badge/Python-80%25-brightgreen?logo=python&logoColor=white)<br>
-    ![C++](https://img.shields.io/badge/C++-70%25-yellow?logo=c%2B%2B&logoColor=white)<br>
-    ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellowgreen?logo=javascript&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-80%25-brightgreen)<br>
+    ![C++](https://img.shields.io/badge/C++-70%25-yellow)<br>
+    ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellowgreen)
   </td>
   <td align="center">
-    ![HTML5](https://img.shields.io/badge/HTML5-85%25-brightgreen?logo=html5&logoColor=white)<br>
-    ![CSS3](https://img.shields.io/badge/CSS3-80%25-green?logo=css3&logoColor=white)<br>
-    ![React](https://img.shields.io/badge/React-70%25-yellow?logo=react&logoColor=white)<br>
-    ![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-yellowgreen?logo=bootstrap&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-85%25-brightgreen)<br>
+    ![CSS3](https://img.shields.io/badge/CSS3-80%25-green)<br>
+    ![React](https://img.shields.io/badge/React-70%25-yellow)<br>
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-yellowgreen)
   </td>
   <td align="center">
-    ![Django](https://img.shields.io/badge/Django-70%25-yellow?logo=django&logoColor=white)<br>
-    ![Node.js](https://img.shields.io/badge/Node.js-40%25-red?logo=nodedotjs&logoColor=white)<br>
-    ![MySQL](https://img.shields.io/badge/MySQL-60%25-orange?logo=mysql&logoColor=white)<br>
-    ![Git](https://img.shields.io/badge/Git-80%25-brightgreen?logo=git&logoColor=white)<br>
-    ![VS Code](https://img.shields.io/badge/VSCode-85%25-brightgreen?logo=visualstudiocode&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django-70%25-yellow)<br>
+    ![Node.js](https://img.shields.io/badge/Node.js-40%25-red)<br>
+    ![MySQL](https://img.shields.io/badge/MySQL-60%25-orange)<br>
+    ![Git](https://img.shields.io/badge/Git-80%25-brightgreen)<br>
+    ![VS Code](https://img.shields.io/badge/VSCode-85%25-brightgreen)
   </td>
 </tr>
 </table>
+
 
 ---
 
