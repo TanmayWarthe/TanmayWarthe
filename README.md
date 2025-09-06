@@ -17,22 +17,45 @@
 </p>
 
 **💻 Programming:**  
-Python 🐍 ![Python](https://progress-bar.dev/80/)  
-C++ 💻 ![C++](https://progress-bar.dev/70/)  
-JavaScript ✨ ![JS](https://progress-bar.dev/75/)  
+**💻 Programming:**  
+Python 🐍  
+![Python](https://progress-bar.dev/80/?title=Python)  
+
+C++ 💻  
+![C++](https://progress-bar.dev/70/?title=C%2B%2B)  
+
+JavaScript ✨  
+![JavaScript](https://progress-bar.dev/75/?title=JavaScript)  
 
 **🎨 Frontend:**  
-HTML5 🌐 ![HTML](https://progress-bar.dev/85/)  
-CSS3 🎨 ![CSS](https://progress-bar.dev/80/)  
-React ⚛️ ![React](https://progress-bar.dev/70%)  
-Bootstrap 🎯 ![Bootstrap](https://progress-bar.dev/75/)  
+HTML5 🌐  
+![HTML](https://progress-bar.dev/85/?title=HTML5)  
+
+CSS3 🎨  
+![CSS](https://progress-bar.dev/80/?title=CSS3)  
+
+React ⚛️  
+![React](https://progress-bar.dev/70/?title=React)  
+
+Bootstrap 🎯  
+![Bootstrap](https://progress-bar.dev/75/?title=Bootstrap)  
 
 **🍃 Backend & Tools:**  
-Django 🍃 ![Django](https://progress-bar.dev/70/)  
-Node.js 🌱 ![Node](https://progress-bar.dev/40%)  
-MySQL 🗄️ ![MySQL](https://progress-bar.dev/60%)  
-Git 🔧 ![Git](https://progress-bar.dev/80%)  
-VS Code 🖊️ ![VSCode](https://progress-bar.dev/85%)  
+Django 🍃  
+![Django](https://progress-bar.dev/70/?title=Django)  
+
+Node.js 🌱  
+![Node.js](https://progress-bar.dev/40/?title=Node.js)  
+
+MySQL 🗄️  
+![MySQL](https://progress-bar.dev/60/?title=MySQL)  
+
+Git 🔧  
+![Git](https://progress-bar.dev/80/?title=Git)  
+
+VS Code 🖊️  
+![VSCode](https://progress-bar.dev/85/?title=VS%20Code)
+
 
 ---
 
@@ -67,12 +90,10 @@ VS Code 🖊️ ![VSCode](https://progress-bar.dev/85%)
 ## 🏆 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/TanmayWarthe/Project1">
+  <a href="https://github.com/TanmayWarthe/QuickMeds-An-Online-Pharamacy">
     <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200" alt="Project1"/>
   </a>
-  <a href="https://github.com/TanmayWarthe/Project2">
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Project2"/>
-  </a>
+  
 </p>
 
 ---
