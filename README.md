@@ -11,6 +11,27 @@
 ---
 
 
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-9b06-92a7b8bdbd3a.gif" width="60" alt="Python"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910847-e8f0cace-daea-4f5e-bc63-97f8f4c92b27.gif" width="60" alt="C++"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910844-39b0f9d6-f8a5-48f7-8b87-b7b83c38b4d7.gif" width="60" alt="JavaScript"/>
+
+  <!-- Frontend -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910846-69f6c7e2-5b7d-4f4c-812b-7b0a3a3e2e3c.gif" width="60" alt="HTML"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910843-9b5d3e6f-0b8e-41a5-8921-98fefc67f08a.gif" width="60" alt="CSS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-47697c92-6c4d-4d7d-9186-bf3dfc3c7a0a.gif" width="60" alt="React"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910841-bff1c1c0-f23e-4c9f-9f5a-d6f53a1d441b.gif" width="60" alt="Bootstrap"/>
+
+  <!-- Backend & Tools -->
+  <img src="https://user-images.githubusercontent.com/74038190/213910840-10956c9a-d272-4e4a-8c73-d2f25f7b7b63.gif" width="60" alt="Django"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910839-ecb35a9b-5c84-47e3-b8e4-3f9f8d8f962c.gif" width="60" alt="Node.js"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910838-4d5f8a3c-8f62-42de-8739-16c7d7e1c2cc.gif" width="60" alt="MySQL"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910837-b8768c1a-3c8f-4a9d-92a4-3e9c379e59f3.gif" width="60" alt="Git"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910836-18cc5ffb-c3dd-47c4-b948-27c4f73d66b8.gif" width="60" alt="VS Code"/>
+</p>
 
 
 ---
