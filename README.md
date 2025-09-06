@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats
 
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmayWarthe&show_icons=true&theme=tokyonight)  
 
 ---
 
@@ -32,8 +32,8 @@
 
 ## ✨ Connect with Me
 
-🌐 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)  
+🌐 [LinkedIn](https://www.linkedin.com/in/tanmay_warthe)  
+🐙 [GitHub](https://github.com/TanmayWarthe)  
 📸 [Instagram](https://www.instagram.com/_tanmaaay)  
 
 ---
