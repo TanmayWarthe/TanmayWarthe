@@ -9,26 +9,35 @@
 🚀 Passionate about building projects that make a difference  
 
 ---
-
 ## 🛠️ Tech Stack & Skills
 
-**💻 Programming:**  
-![Python 🐍](https://img.shields.io/badge/Python-80%25-brightgreen)  
-![C++ 💻](https://img.shields.io/badge/C++-70%25-yellow)  
-![JavaScript ✨](https://img.shields.io/badge/JavaScript-75%25-yellowgreen)  
-
-**🎨 Frontend:**  
-![HTML5 🌐](https://img.shields.io/badge/HTML5-85%25-brightgreen)  
-![CSS3 🎨](https://img.shields.io/badge/CSS3-80%25-green)  
-![React ⚛️](https://img.shields.io/badge/React-70%25-yellow)     
-![Bootstrap 🎯](https://img.shields.io/badge/Bootstrap-75%25-yellowgreen)  
-
-**🍃 Backend & Tools:**  
-![Git 🔧 ](https://img.shields.io/badge/Git-80%25-brightgreen)  
-![VS Code 🖊️](https://img.shields.io/badge/VSCode-85%25-brightgreen)
-![Django 🍃](https://img.shields.io/badge/Django-70%25-yellow)  
-![Node.js 🌱](https://img.shields.io/badge/Node.js-40%25-red)  
-![MySQL 🗄️](https://img.shields.io/badge/MySQL-60%25-orange)  
+<table>
+<tr>
+  <th align="center">💻 Programming</th>
+  <th align="center">🎨 Frontend</th>
+  <th align="center">⚙️ Backend & Tools</th>
+</tr>
+<tr>
+  <td align="center">
+    ![Python](https://img.shields.io/badge/Python-80%25-brightgreen?logo=python&logoColor=white)<br>
+    ![C++](https://img.shields.io/badge/C++-70%25-yellow?logo=c%2B%2B&logoColor=white)<br>
+    ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellowgreen?logo=javascript&logoColor=white)
+  </td>
+  <td align="center">
+    ![HTML5](https://img.shields.io/badge/HTML5-85%25-brightgreen?logo=html5&logoColor=white)<br>
+    ![CSS3](https://img.shields.io/badge/CSS3-80%25-green?logo=css3&logoColor=white)<br>
+    ![React](https://img.shields.io/badge/React-70%25-yellow?logo=react&logoColor=white)<br>
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-yellowgreen?logo=bootstrap&logoColor=white)
+  </td>
+  <td align="center">
+    ![Django](https://img.shields.io/badge/Django-70%25-yellow?logo=django&logoColor=white)<br>
+    ![Node.js](https://img.shields.io/badge/Node.js-40%25-red?logo=nodedotjs&logoColor=white)<br>
+    ![MySQL](https://img.shields.io/badge/MySQL-60%25-orange?logo=mysql&logoColor=white)<br>
+    ![Git](https://img.shields.io/badge/Git-80%25-brightgreen?logo=git&logoColor=white)<br>
+    ![VS Code](https://img.shields.io/badge/VSCode-85%25-brightgreen?logo=visualstudiocode&logoColor=white)
+  </td>
+</tr>
+</table>
 
 ---
 
