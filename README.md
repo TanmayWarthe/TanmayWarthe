@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="150" alt="coder gif"/>
+  <img src="https://media.giphy.com/media/3oEduQAsY2k2j8h5lG/giphy.gif" width="150" alt="coder gif"/>
 </p>
 
 # 👋 Hey there, I'm Tanmay
