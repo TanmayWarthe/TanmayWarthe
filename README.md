@@ -12,50 +12,35 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,bootstrap,django,nodejs,mysql,git,vscode,github,postman" />
-</p>
-
-**💻 Programming:**  
 **💻 Programming:**  
 Python 🐍  
-![Python](https://progress-bar.dev/80/?title=Python)  
-
+![Python](https://img.shields.io/badge/Python-80%25-brightgreen)  
 C++ 💻  
-![C++](https://progress-bar.dev/70/?title=C%2B%2B)  
-
+![C++](https://img.shields.io/badge/C++-70%25-yellow)  
 JavaScript ✨  
-![JavaScript](https://progress-bar.dev/75/?title=JavaScript)  
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellowgreen)  
 
 **🎨 Frontend:**  
 HTML5 🌐  
-![HTML](https://progress-bar.dev/85/?title=HTML5)  
-
+![HTML5](https://img.shields.io/badge/HTML5-85%25-brightgreen)  
 CSS3 🎨  
-![CSS](https://progress-bar.dev/80/?title=CSS3)  
-
+![CSS3](https://img.shields.io/badge/CSS3-80%25-green)  
 React ⚛️  
-![React](https://progress-bar.dev/70/?title=React)  
-
+![React](https://img.shields.io/badge/React-70%25-yellow)  
 Bootstrap 🎯  
-![Bootstrap](https://progress-bar.dev/75/?title=Bootstrap)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-75%25-yellowgreen)  
 
 **🍃 Backend & Tools:**  
 Django 🍃  
-![Django](https://progress-bar.dev/70/?title=Django)  
-
+![Django](https://img.shields.io/badge/Django-70%25-yellow)  
 Node.js 🌱  
-![Node.js](https://progress-bar.dev/40/?title=Node.js)  
-
+![Node.js](https://img.shields.io/badge/Node.js-40%25-red)  
 MySQL 🗄️  
-![MySQL](https://progress-bar.dev/60/?title=MySQL)  
-
+![MySQL](https://img.shields.io/badge/MySQL-60%25-orange)  
 Git 🔧  
-![Git](https://progress-bar.dev/80/?title=Git)  
-
+![Git](https://img.shields.io/badge/Git-80%25-brightgreen)  
 VS Code 🖊️  
-![VSCode](https://progress-bar.dev/85/?title=VS%20Code)
-
+![VS Code](https://img.shields.io/badge/VSCode-85%25-brightgreen)
 
 ---
 
