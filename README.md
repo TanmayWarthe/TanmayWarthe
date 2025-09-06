@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="coder gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" alt="coder gif"/>
 </p>
 
-# 👋 Hey there, I'm Tanmay
+# <p align="center"><span style="background: linear-gradient(to right, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">👋 Hey, I'm Tanmay</span></p>
 
-💻 **Aspiring Software Developer | AI & ML Enthusiast | Tech Explorer <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png"/>**  
+💻 **Aspiring Software Developer | AI & ML Enthusiast | Tech Explorer**  
 🌱 Learning & exploring: **Cloud, DevOps, AI & Machine Learning**  
 🚀 Passionate about building projects that make a difference  
 
@@ -14,43 +14,66 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,bootstrap,django,nodejs,mysql,git,vscode,github,postman" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 </p>
 
-**💻 Programming:** Python 🐍 | C++ 💻 | JavaScript ✨  
-**🎨 Frontend:** HTML5 🌐 | CSS3 🎨 | React ⚛️ | Bootstrap 🎯  
-**🍃 Backend:** Django 🍃 | Node.js 🌱 | MySQL 🗄️  
-**🛠️ Tools & Platforms:** Git 🔧 | VS Code 🖊️ | GitHub 🐙  
+**💻 Programming:**  
+Python 🐍 ![Python](https://progress-bar.dev/80/)  
+C++ 💻 ![C++](https://progress-bar.dev/70/)  
+JavaScript ✨ ![JS](https://progress-bar.dev/75/)  
+
+**🎨 Frontend:**  
+HTML5 🌐 ![HTML](https://progress-bar.dev/85/)  
+CSS3 🎨 ![CSS](https://progress-bar.dev/80/)  
+React ⚛️ ![React](https://progress-bar.dev/70%)  
+Bootstrap 🎯 ![Bootstrap](https://progress-bar.dev/75/)  
+
+**🍃 Backend & Tools:**  
+Django 🍃 ![Django](https://progress-bar.dev/70/)  
+Node.js 🌱 ![Node](https://progress-bar.dev/40%)  
+MySQL 🗄️ ![MySQL](https://progress-bar.dev/60%)  
+Git 🔧 ![Git](https://progress-bar.dev/80%)  
+VS Code 🖊️ ![VSCode](https://progress-bar.dev/85%)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayWarthe&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayWarthe&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanmayWarthe&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayWarthe&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <!-- Left big GIF -->
-      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="426px" alt="ai gif"/>
+    <td width="60%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" alt="ai gif"/>
     </td>
-    <td>
-      <!-- Right small GIFs stacked vertically -->
-      <img src="https://c.tenor.com/8rZskf8q6Q0AAAAC/ai.gif" width="80" alt="ai gif"/><br>
+    <td width="40%" align="center">
+      <img src="https://c.tenor.com/8rZskf8q6Q0AAAAC/ai.gif" width="80" alt="ai gif"/><br><br>
       <img src="https://c.tenor.com/7zRmZV7fM-IAAAAC/react-js.gif" width="80" alt="react gif"/><br><br>
       - 🤖 AI & Machine Learning<br>
-      - 🌐 Aspiring Software Development<br>
+      - 🌐 Aspiring Software Developer<br>
       - 📱 Web App Development
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/TanmayWarthe/Project1">
+    <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="200" alt="Project1"/>
+  </a>
+  <a href="https://github.com/TanmayWarthe/Project2">
+    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Project2"/>
+  </a>
+</p>
 
 ---
 
