@@ -304,33 +304,66 @@ Exploring containerization, CI/CD pipelines, and cloud deployment
 <br>
 
 <!-- Fun Facts -->
-<h2 align="center">⚡ A Little About Me</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> 
+  A Little About Me 
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35">
+</h2>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> 
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+</td>
+<td width="50%" align="left">
 
-```python
-class Tanmay:
-    def __init__(self):
-        self.languages = ["Python 🐍", "JavaScript ⚡", "C++ 💻"]
-        self.music = "Lo-fi beats & tech podcasts 🎧"
-        self.fuel = "Coffee ☕ + Curiosity 🔍"
-        self.hobbies = ["Gaming 🎮", "Tech Exploring 🔬", "Sci-fi Binging 🛸"]
-        self.belief = "Every bug is a feature in disguise 🐛✨"
-        self.mantra = "Learn something new every single day 📚"
-        self.vibe = "Calm mind, creative code 🧘‍♂️"
-    
-    def get_current_status(self):
-        return "Building amazing things, one line at a time! 🚀"
+### 💫 Who Am I?
 
-# Creating an instance of me
-me = Tanmay()
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Languages I Speak**  
+Python 🐍 | JavaScript ⚡ | C++ 💻
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="25"> **My Soundtrack**  
+Lo-fi beats & tech podcasts 🎧
+
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="25"> **Powered By**  
+Coffee ☕ + Curiosity 🔍
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="25"> **Hobbies**  
+Gaming 🎮 | Tech Exploring 🔬 | Sci-fi 🛸
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="120"><br>
+  <b>💡 Belief</b><br>
+  <i>Every bug is a feature<br>in disguise</i>
+</td>
+<td width="33%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216647318-2e4e1637-ad4b-4c63-9fa8-13e8b4b5b3a4.gif" width="120"><br>
+  <b>📚 Mantra</b><br>
+  <i>Learn something new<br>every single day</i>
+</td>
+<td width="33%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d72367b5ac9d.gif" width="120"><br>
+  <b>🧘‍♂️ Vibe</b><br>
+  <i>Calm mind<br>creative code</i>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+### 🚀 *"Building amazing things, one line at a time!"*
 
 </div>
 
