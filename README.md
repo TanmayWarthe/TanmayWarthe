@@ -382,11 +382,6 @@ Gaming 🎮 | Tech Exploring 🔬 | Sci-fi 🛸
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=calm&border=true&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" />
 
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=calm&border=true&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs" />
-
-<br><br>
 
 > *"Code is poetry written in logic."* ✨
 
