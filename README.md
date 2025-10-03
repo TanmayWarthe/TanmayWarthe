@@ -53,13 +53,32 @@
 
 ### 🌊 *Currently Flowing Through...*
 
-```yaml
-location: "Nagpur, Maharashtra, India 🇮🇳"
-current_vibe: "Learning, Building, Growing 🌱"
-interests: ["AI & ML 🤖", "Cloud Computing ☁️", "Full Stack Development 🌐"]
-philosophy: "Code with purpose, learn with passion ✨"
-current_status: "Exploring the infinite possibilities of technology 🚀"
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💫 About Me
+
+🌍 **Location:** Nagpur, Maharashtra, India  
+🎯 **Current Focus:** AI, ML & Full Stack Development  
+💡 **Philosophy:** Code with purpose, learn with passion  
+🚀 **Mission:** Building solutions that matter  
+✨ **Vibe:** Calm mind, creative code  
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 Interests & Passions
+
+🤖 Artificial Intelligence & Machine Learning  
+☁️ Cloud Computing & DevOps  
+🌐 Full Stack Web Development  
+📚 Continuous Learning & Growth  
+🤝 Open Source Contributions  
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -78,42 +97,43 @@ current_status: "Exploring the infinite possibilities of technology 🚀"
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
 </h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,bootstrap,django,nodejs,mysql,git,vscode,github,postman&theme=dark&perline=7" />
-</p>
-
 <br>
 
-<details open>
-<summary><b>💫 Skills Constellation</b></summary>
-<br>
-
-<p align="center">
-
-**Languages I Speak**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2b2b2b)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2b2b2b)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2b2b2b)
-
-**Frontend Artistry**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2b2b2b)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2b2b2b)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2b2b2b)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2b2b2b)
-
-**Backend Magic**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=2b2b2b)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2b2b2b)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2b2b2b)
-
-**Tools & Craft**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2b2b2b)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2b2b2b)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=2b2b2b)
-
+<div align="center">
+  
+### 🎯 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-</details>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🔧 Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 <br>
 
@@ -202,23 +222,42 @@ current_status: "Exploring the infinite possibilities of technology 🚀"
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50">
 
-```typescript
-const tanmay = {
-    workingOn: {
-        frontend: "Building responsive React applications 🎨",
-        backend: "Crafting robust Django APIs 🛠️",
-        ai: "Implementing ML models for real-world solutions 🤖",
-        learning: "Exploring cloud services and DevOps ☁️"
-    },
-    goals: [
-        "Contribute to impactful open-source projects 🌟",
-        "Master full-stack development 💻",
-        "Build AI-powered applications 🚀",
-        "Connect with amazing developers 🤝"
-    ],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Current Projects
+
+🎨 **Frontend**  
+Building responsive and interactive React applications with modern UI/UX principles
+
+🛠️ **Backend**  
+Crafting robust and scalable APIs using Django and Node.js
+
+🤖 **AI & ML**  
+Implementing machine learning models to solve real-world problems
+
+☁️ **Cloud & DevOps**  
+Exploring containerization, CI/CD pipelines, and cloud deployment
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 Goals & Aspirations
+
+✅ Contribute to impactful open-source projects  
+✅ Master full-stack development  
+✅ Build AI-powered applications  
+✅ Connect with amazing developers worldwide  
+✅ Create solutions that make a difference  
+
+<br>
+
+**Fun Fact:** *I debug with console.log() and I'm proud of it!* 😄
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -271,16 +310,22 @@ const tanmay = {
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> 
 
-```javascript
-const aboutMe = {
-    code: "I speak in Python, JavaScript, and C++ 💻",
-    music: "Lo-fi beats fuel my coding sessions 🎧",
-    fuel: "Coffee ☕ + Curiosity 🔍 = My energy source",
-    hobbies: ["Gaming 🎮", "Tech exploring 🔬", "Sci-fi binging 🛸"],
-    belief: "Every bug is a feature in disguise 🐛✨",
-    mantra: "Learn something new every single day 📚",
-    vibe: "Calm mind, creative code 🧘‍♂️"
-};
+```python
+class Tanmay:
+    def __init__(self):
+        self.languages = ["Python 🐍", "JavaScript ⚡", "C++ 💻"]
+        self.music = "Lo-fi beats & tech podcasts 🎧"
+        self.fuel = "Coffee ☕ + Curiosity 🔍"
+        self.hobbies = ["Gaming 🎮", "Tech Exploring 🔬", "Sci-fi Binging 🛸"]
+        self.belief = "Every bug is a feature in disguise 🐛✨"
+        self.mantra = "Learn something new every single day 📚"
+        self.vibe = "Calm mind, creative code 🧘‍♂️"
+    
+    def get_current_status(self):
+        return "Building amazing things, one line at a time! 🚀"
+
+# Creating an instance of me
+me = Tanmay()
 ```
 
 <br>
