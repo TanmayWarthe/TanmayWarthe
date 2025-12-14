@@ -4,9 +4,9 @@
 
 ### Full Stack Developer | AI/ML Enthusiast | Cloud Native Builder
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tanmay&color=blueviolet&style=flat-square)](https://github.com/tanmay)
-[![GitHub followers](https://img.shields.io/github/followers/tanmay?style=flat-square&logo=github)](https://github.com/tanmay)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanmay)
+[![Profile Views](https://komarev.com/ghpvc/?username=TanmayWarthe&color=blueviolet&style=flat-square)](https://github.com/TanmayWarthe)
+[![GitHub followers](https://img.shields.io/github/followers/TanmayWarthe?style=flat-square&logo=github)](https://github.com/TanmayWarthe)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanmay-warthe)
 
 ```javascript
 const tanmay = {
@@ -85,16 +85,16 @@ I'm a passionate **Full Stack Developer** from Nagpur, India, who loves transfor
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanmay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanmayWarthe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayWarthe&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayWarthe&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayWarthe&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -166,7 +166,7 @@ Current Projects:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=tanmay&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TanmayWarthe&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -207,10 +207,10 @@ Sharing knowledge,<br/>helping others
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanmay)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanmay.dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmay@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-warthe)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanmaywarthe)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tanmaywarthe.dev)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmaywarthe@example.com)
 
 ### 💬 Open to collaborations, opportunities, and coffee chats!
 
@@ -220,7 +220,7 @@ Sharing knowledge,<br/>helping others
 
 <div align="center">
 
-### ⭐️ From [Tanmay Warthe](https://github.com/tanmay)
+### ⭐️ From [Tanmay Warthe](https://github.com/TanmayWarthe)
 
 **Made with 💙 and endless ☕**
 
