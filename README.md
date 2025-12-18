@@ -11,10 +11,10 @@
 ```javascript
 const tanmay = {
     location: "Nagpur, India 🇮🇳",
-    role: "Full Stack Developer",
+    role: "Aspiring Software Developer",
     focus: ["AI & ML", "Web Development", "Cloud Architecture"],
     passion: "Building Solutions That Matter",
-    currentlyLearning: ["Neural Networks", "DevOps", "System Design"],
+    currentlyLearning: ["Machine Learning", "GenAI", "System Design"],
     motto: "Code with purpose, learn with passion",
     coffeeConsumed: "☕☕☕ (and counting...)"
 };
@@ -26,7 +26,7 @@ const tanmay = {
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** from Nagpur, India, who loves transforming ideas into elegant, scalable solutions. My journey spans from crafting beautiful user interfaces to architecting robust backend systems and deploying intelligent AI-powered applications.
+I'm a passionate **Software Developer** from Nagpur, India, who loves transforming ideas into elegant, scalable solutions. My journey spans from crafting beautiful user interfaces to architecting robust backend systems and deploying intelligent AI-powered applications.
 
 > *"Code is poetry written in logic"* ✨
 
@@ -135,7 +135,7 @@ I'm a passionate **Full Stack Developer** from Nagpur, India, who loves transfor
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I'm Building and passinate about some things </> ! 
 
 ```yaml
 Current Projects:
@@ -150,7 +150,7 @@ Current Projects:
   - name: "AI-Powered Solutions"
     tech: [Python, TensorFlow, FastAPI]
     description: "Implementing ML models for real-world problems"
-    
+
   - name: "Cloud Native Apps"
     tech: [Docker, Kubernetes, AWS]
     description: "Deploying production-ready applications"
@@ -222,8 +222,8 @@ Sharing knowledge,<br/>helping others
 
 ### ⭐️ From [Tanmay Warthe](https://github.com/TanmayWarthe)
 
-**Made with 💙 and endless ☕**
+**Made with ❤️ and endless ☕**
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
 
 </div>
