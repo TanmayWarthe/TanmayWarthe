@@ -2,7 +2,7 @@
 
 # 👨‍💻 Tanmay Warthe
 
-### Full Stack Developer | AI/ML Enthusiast | Cloud Native Builder
+### Full Stack Developer | AI/ML Enthusiast |  Cloud ☁️
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TanmayWarthe&color=blueviolet&style=flat-square)](https://github.com/TanmayWarthe)
 [![GitHub followers](https://img.shields.io/github/followers/TanmayWarthe?style=flat-square&logo=github)](https://github.com/TanmayWarthe)
@@ -12,9 +12,9 @@
 const tanmay = {
     location: "Nagpur, India 🇮🇳",
     role: "Aspiring Software Developer",
-    focus: ["AI & ML", "Web Development", "Cloud Architecture"],
+    focus: ["AI & ML", "Web Development", "AWS Cloud"],
     passion: "Building Solutions That Matter",
-    currentlyLearning: ["Machine Learning", "GenAI", "System Design"],
+    currentlyLearning: ["DSA", "GenAI", "System Design"],
     motto: "Code with purpose, learn with passion",
     coffeeConsumed: "☕☕☕ (and counting...)"
 };
@@ -46,7 +46,6 @@ I'm a passionate **Software Developer** from Nagpur, India, who loves transformi
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,18 +55,20 @@ I'm a passionate **Software Developer** from Nagpur, India, who loves transformi
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 
 ### 🗄️ Database & Storage
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### 🤖 AI/ML & Data Science
+```
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+```
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
