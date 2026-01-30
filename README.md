@@ -63,12 +63,7 @@ I'm a passionate **Software Developer** from Nagpur, India, who loves transformi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-### 🤖 AI/ML & Data Science
-```
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-```
+### 🤖 AI/ML 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -225,6 +220,6 @@ Sharing knowledge,<br/>helping others
 
 **Made with ❤️ and endless ☕**
 
-*Last Updated: December 2025*
+*Last Updated: 2026*
 
 </div>
