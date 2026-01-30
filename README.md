@@ -129,32 +129,6 @@ I'm a passionate **Software Developer** from Nagpur, India, who loves transformi
 </tr>
 </table>
 
----
-
-## 🚀 What I'm Building and passinate about some things </> ! 
-
-```yaml
-Current Projects:
-  - name: "Responsive Web Applications"
-    tech: [React, Next.js, Tailwind CSS]
-    description: "Crafting beautiful, performant user interfaces"
-    
-  - name: "Scalable REST APIs"
-    tech: [Node.js, Django, PostgreSQL]
-    description: "Building robust backend architectures"
-    
-  - name: "AI-Powered Solutions"
-    tech: [Python, TensorFlow, FastAPI]
-    description: "Implementing ML models for real-world problems"
-
-  - name: "Cloud Native Apps"
-    tech: [Docker, Kubernetes, AWS]
-    description: "Deploying production-ready applications"
-    
-  - name: "Open Source Contributions"
-    tech: [Various]
-    description: "Giving back to the developer community"
-```
 
 ---
 
